@@ -7,7 +7,7 @@ const CALENDLY = "https://calendly.com/neriahtellerup/30-minutes";
 const INSTAGRAM_PROFILE = "https://www.instagram.com/nedamedia.cph/";
 const LINKEDIN_PROFILE = "https://www.linkedin.com/in/neriah-tellerup-andersen-59baab202/";
 const proofOfWorkImages = [
-  
+
   "proof-work2.jpg",
   "proof-work3.jpg",
   "proof-work4.jpg",
@@ -98,41 +98,41 @@ const performanceDataEn = {
   philosophy:
     "We do not believe in throwing money at ads and hoping for the best. Our approach is systematic, creative and 100% data-driven. Every krone of ad spend should work harder than the last.",
   offerTitle: "Everything you need to scale",
- pillars: [
-  {
-    title: "Social Ads",
-    text: "More revenue from Facebook and Instagram not more spend. You get profitable campaigns that scale, with creative that converts and targeting that finds your best customers.",
-    points: [
-      "Higher ROAS, lower cost per acquisition",
-      "Scroll-stopping creatives that convert",
-      "Your ideal customer, found and re-engaged",
-      "Lookalike audiences that expand profitably",
-      "Ad spend that goes further every week"
-    ]
-  },
-  {
-    title: "Google Ads",
-    text: "Show up exactly when buyers are ready. You get sales-ready traffic from people already searching for what you sell no wasted clicks, no guesswork.",
-    points: [
-      "Top placement when purchase intent is highest",
-      "Shopping ads that outsell the competition",
-      "Keywords that bring buyers, not browsers",
-      "Every conversion traced back to its source",
-      "Landing pages and ads that keep improving"
-    ]
-  },
-  {
-    title: "Your Data Layer",
-    text: "Know exactly what's making you money. You get a clear, reliable picture of every sale, every source, and every decision so nothing is wasted.",
-    points: [
-      "Accurate data you can actually trust",
-      "Full visibility across every channel",
-      "Sales tracked even without cookies",
-      "One dashboard showing what matters",
-      "Know which ad made you money, always"
-    ]
-  }
-],
+  pillars: [
+    {
+      title: "Social Ads",
+      text: "More revenue from Facebook and Instagram not more spend. You get profitable campaigns that scale, with creative that converts and targeting that finds your best customers.",
+      points: [
+        "Higher ROAS, lower cost per acquisition",
+        "Scroll-stopping creatives that convert",
+        "Your ideal customer, found and re-engaged",
+        "Lookalike audiences that expand profitably",
+        "Ad spend that goes further every week"
+      ]
+    },
+    {
+      title: "Google Ads",
+      text: "Show up exactly when buyers are ready. You get sales-ready traffic from people already searching for what you sell no wasted clicks, no guesswork.",
+      points: [
+        "Top placement when purchase intent is highest",
+        "Shopping ads that outsell the competition",
+        "Keywords that bring buyers, not browsers",
+        "Every conversion traced back to its source",
+        "Landing pages and ads that keep improving"
+      ]
+    },
+    {
+      title: "Your Data Layer",
+      text: "Know exactly what's making you money. You get a clear, reliable picture of every sale, every source, and every decision so nothing is wasted.",
+      points: [
+        "Accurate data you can actually trust",
+        "Full visibility across every channel",
+        "Sales tracked even without cookies",
+        "One dashboard showing what matters",
+        "Know which ad made you money, always"
+      ]
+    }
+  ],
   processTitle: "How we work",
   process: [
     ["01", "Analysis & audit", "We dive into your current setup, analyze data and identify the biggest growth opportunities.", "/images/process-audit.png"],
@@ -155,41 +155,41 @@ const performanceDataDa = {
   philosophy:
     "Vi tror ikke på at brænde penge af på annoncer og håbe på det bedste. Vores tilgang er systematisk, kreativ og 100 % data-drevet. Hver krone i annoncebudgettet skal performe bedre end den sidste.",
   offerTitle: "Alt hvad I skal bruge for at skalere",
-pillars: [
-  {
-    title: "Social Ads",
-    text: "Mere omsætning fra Facebook og Instagram  ikke mere forbrug. I får profitable kampagner der skalerer, med kreativer der konverterer og målretning der finder jeres bedste kunder.",
-    points: [
-      "Højere ROAS, lavere omkostning per køb",
-      "Kreativer der stopper scrollet og konverterer",
-      "Jeres ideelle kunde  fundet og genaktiveret",
-      "Lookalike-målgrupper der vokser profitabelt",
-      "Annoncekroner der rækker længere hver uge"
-    ]
-  },
-  {
-    title: "Search Ads",
-    text: "Vis jer præcis når købere er klar. I får salgsklart trafik fra folk der allerede søger efter det I sælger  ingen spildte klik, ingen gætværk.",
-    points: [
-      "Topplacering når købsintentionen er højest",
-      "Shopping-annoncer der slår konkurrenterne",
-      "Keywords der tiltrækker købere, ikke browsere",
-      "Hver konvertering sporet tilbage til kilden",
-      "Landingssider og annoncer der bliver bedre løbende"
-    ]
-  },
-  {
-    title: "Dit datalag",
-    text: "Ved præcis hvad der tjener jer penge. I får et klart, pålideligt billede af hvert salg, hver kilde og hver beslutning  så intet går til spilde.",
-    points: [
-      "Præcise data I faktisk kan stole på",
-      "Fuld synlighed på tværs af alle kanaler",
-      "Salg sporet selv uden cookies",
-      "Ét dashboard der viser det der betyder noget",
-      "Ved altid hvilken annonce der tjente jer penge"
-    ]
-  }
-],
+  pillars: [
+    {
+      title: "Social Ads",
+      text: "Mere omsætning fra Facebook og Instagram  ikke mere forbrug. I får profitable kampagner der skalerer, med kreativer der konverterer og målretning der finder jeres bedste kunder.",
+      points: [
+        "Højere ROAS, lavere omkostning per køb",
+        "Kreativer der stopper scrollet og konverterer",
+        "Jeres ideelle kunde  fundet og genaktiveret",
+        "Lookalike-målgrupper der vokser profitabelt",
+        "Annoncekroner der rækker længere hver uge"
+      ]
+    },
+    {
+      title: "Search Ads",
+      text: "Vis jer præcis når købere er klar. I får salgsklart trafik fra folk der allerede søger efter det I sælger  ingen spildte klik, ingen gætværk.",
+      points: [
+        "Topplacering når købsintentionen er højest",
+        "Shopping-annoncer der slår konkurrenterne",
+        "Keywords der tiltrækker købere, ikke browsere",
+        "Hver konvertering sporet tilbage til kilden",
+        "Landingssider og annoncer der bliver bedre løbende"
+      ]
+    },
+    {
+      title: "Dit datalag",
+      text: "Ved præcis hvad der tjener jer penge. I får et klart, pålideligt billede af hvert salg, hver kilde og hver beslutning  så intet går til spilde.",
+      points: [
+        "Præcise data I faktisk kan stole på",
+        "Fuld synlighed på tværs af alle kanaler",
+        "Salg sporet selv uden cookies",
+        "Ét dashboard der viser det der betyder noget",
+        "Ved altid hvilken annonce der tjente jer penge"
+      ]
+    }
+  ],
   processTitle: "Sådan arbejder vi",
   process: [
     ["01", "Analyse og audit", "Vi dykker ned i jeres nuværende setup, analyserer data og finder de største vækstmuligheder.", "/images/process-audit.png"],
@@ -204,7 +204,7 @@ pillars: [
 
 const socialDataEn = {
   slug: "social-media",
-  image: "/images/neriah-outdoor.jpeg",
+  image: "/images/new_images/social-banner.jpg",
   label: "Services",
   title: "Content That Builds Brands",
   subtitle:
@@ -352,8 +352,8 @@ const translationsEn = {
       "My approach combines creative storytelling with hard performance data. The result? Brands that look great and deliver on the bottom line.",
     bookTalk: "Book a Call",
     proofLabel: "Work in action",
-proofTitle: "Inside the NEDA Media production process",
-proofText: "A behind the scenes look at the visuals, video shoots, and content built under the NEDA Media brand from concept to camera-ready.",
+    proofTitle: "Inside the NEDA Media production process",
+    proofText: "A behind the scenes look at the visuals, video shoots, and content built under the NEDA Media brand from concept to camera-ready.",
 
     proofProfile: "See more on Instagram",
     testimonialsLabel: "Testimonials",
@@ -367,20 +367,20 @@ proofText: "A behind the scenes look at the visuals, video shoots, and content b
       "Book a free strategy call and let us show you exactly how Neda Media can help you grow through performance marketing and social media.",
     carouselTestimonials: [
       {
-    name: "Anders",
-    designation: "Client",
-    quote: "I have worked with Neriah for many years. She is dedicated, skilled and always goes the extra mile to ensure results. Highest recommendation."
-  },
-  {
-    name: "Rie Møller",
-    designation: "Client",
-    quote: "Neriah is an incredibly dedicated, ambitious and talented young woman. Her ability to quickly understand our needs made the collaboration effective from day one."
-  },
-  {
-    name: "Malene",
-    designation: "Client",
-    quote: "I have had the pleasure of working with Neriah, now Nedamedia, across several projects. She is thorough, creative and highly performance-focused."
-  }
+        name: "Anders",
+        designation: "Client",
+        quote: "I have worked with Neriah for many years. She is dedicated, skilled and always goes the extra mile to ensure results. Highest recommendation."
+      },
+      {
+        name: "Rie Møller",
+        designation: "Client",
+        quote: "Neriah is an incredibly dedicated, ambitious and talented young woman. Her ability to quickly understand our needs made the collaboration effective from day one."
+      },
+      {
+        name: "Malene",
+        designation: "Client",
+        quote: "I have had the pleasure of working with Neriah, now Nedamedia, across several projects. She is thorough, creative and highly performance-focused."
+      }
     ]
   },
   services: [
@@ -540,8 +540,8 @@ const translationsDa = {
       "Min tilgang kombinerer kreativ storytelling med hård performance-data. Resultatet? Brands der både ser stærke ud og leverer i bundlinjen.",
     bookTalk: "Book et møde",
     proofLabel: "Arbejdet i praksis",
-proofTitle: "Bag kulisserne hos NEDA Media",
-proofText: "Et indblik i de visuals, videoproduktioner og content, der skabes under NEDA Media-brandet fra idé til færdigt produkt.",
+    proofTitle: "Bag kulisserne hos NEDA Media",
+    proofText: "Et indblik i de visuals, videoproduktioner og content, der skabes under NEDA Media-brandet fra idé til færdigt produkt.",
     proofProfile: "Se mere på Instagram",
     testimonialsLabel: "Udtalelser",
     testimonialsTitle: "Det siger vores kunder",
@@ -553,21 +553,21 @@ proofText: "Et indblik i de visuals, videoproduktioner og content, der skabes un
     ctaText:
       "Book et gratis strategimøde, og lad os vise jer præcis, hvordan Neda Media kan hjælpe jer med at vokse gennem performance marketing og social media.",
     carouselTestimonials: [
-    {
-    name: "Anders",
-    designation: "Kunde",
-    quote: "Har arbejdet med Neriah i mange år, hun er dedikeret, dygtig og går gerne den ekstra mil for at sikre resultater. Mine varmeste anbefalinger."
-  },
-  {
-    name: "Rie Møller",
-    designation: "Kunde",
-    quote: "Neriah er en utrolig dedikeret, ambitiøs og talentfuld ung kvinde. Hendes evne til hurtigt at forstå vores behov gjorde samarbejdet effektivt fra dag ét."
-  },
-  {
-    name: "Malene",
-    designation: "Kunde",
-    quote: "Jeg har haft fornøjelsen af at arbejde med Neriah, nu Nedamedia, på tværs af flere projekter. Hun er grundig, kreativ og stærkt performance-fokuseret."
-  }
+      {
+        name: "Anders",
+        designation: "Kunde",
+        quote: "Har arbejdet med Neriah i mange år, hun er dedikeret, dygtig og går gerne den ekstra mil for at sikre resultater. Mine varmeste anbefalinger."
+      },
+      {
+        name: "Rie Møller",
+        designation: "Kunde",
+        quote: "Neriah er en utrolig dedikeret, ambitiøs og talentfuld ung kvinde. Hendes evne til hurtigt at forstå vores behov gjorde samarbejdet effektivt fra dag ét."
+      },
+      {
+        name: "Malene",
+        designation: "Kunde",
+        quote: "Jeg har haft fornøjelsen af at arbejde med Neriah, nu Nedamedia, på tværs af flere projekter. Hun er grundig, kreativ og stærkt performance-fokuseret."
+      }
     ]
   },
   services: [
@@ -720,9 +720,9 @@ function RouteProvider({ children }) {
       !to || to === "home"
         ? "home"
         : String(to)
-            .replace(/^\/+/, "")
-            .split("/")
-            .filter(Boolean)[0] || "home";
+          .replace(/^\/+/, "")
+          .split("/")
+          .filter(Boolean)[0] || "home";
     const path = segment === "home" ? "/" : `/${segment}`;
     window.history.pushState(null, "", path);
     setRoute(pathnameToRoute(window.location.pathname));
@@ -833,9 +833,8 @@ function LangSwitcher({ locale, onLocaleChange, solidHeader, t }) {
     <button
       key={code}
       type="button"
-      className={`rounded-md px-1.5 py-0.5 transition ${
-        locale === code ? `${activeCls} underline decoration-2 underline-offset-4` : `${muted} hover:opacity-100`
-      }`}
+      className={`rounded-md px-1.5 py-0.5 transition ${locale === code ? `${activeCls} underline decoration-2 underline-offset-4` : `${muted} hover:opacity-100`
+        }`}
       onClick={() => onLocaleChange(code)}
       lang={code}
     >
@@ -879,16 +878,15 @@ function Header({ route, t, locale, onLocaleChange }) {
     { to: "social-media", label: t.nav.mobileSocial, icon: "social", active: route === "social-media" },
     { external: true, href: CALENDLY, label: t.nav.mobileCall, icon: "calendar", active: false }
   ];
-  const close = () => {};
+  const close = () => { };
 
   return (
     <>
       <header
-        className={`fixed inset-x-0 top-0 z-50 transition duration-300 ${
-          solidHeader
-            ? "bg-white/95 py-3 shadow-card backdrop-blur"
-            : "bg-transparent py-5"
-        }`}
+        className={`fixed inset-x-0 top-0 z-50 transition duration-300 ${solidHeader
+          ? "bg-white/95 py-3 shadow-card backdrop-blur"
+          : "bg-transparent py-5"
+          }`}
       >
         <div className="container-shell grid grid-cols-1 items-center gap-4 lg:grid-cols-[1fr_auto_1fr] lg:gap-6">
           <div className="flex w-full items-center justify-between gap-4 lg:contents">
@@ -905,23 +903,23 @@ function Header({ route, t, locale, onLocaleChange }) {
             aria-label={t.nav.services}
           >
             <ul className="flex items-center gap-7">
-                <li>
-                  <AppLink className={linkState(route === "about-us")} to="about-us" onClick={close}>
-                    {t.nav.about}
+              <li>
+                <AppLink className={linkState(route === "about-us")} to="about-us" onClick={close}>
+                  {t.nav.about}
+                </AppLink>
+              </li>
+              <li className="group relative">
+                <span className="inline-flex cursor-default items-center gap-2 py-2">{t.nav.services}</span>
+                <div className="absolute left-0 mt-2 grid min-w-64 gap-3 rounded-lg border border-white/10 bg-cream p-4 text-ink opacity-0 shadow-soft transition group-hover:opacity-100">
+                  <AppLink to="performance-marketing" onClick={close} className="hover:text-rust">
+                    {t.nav.performance}
                   </AppLink>
-                </li>
-                <li className="group relative">
-                  <span className="inline-flex cursor-default items-center gap-2 py-2">{t.nav.services}</span>
-                  <div className="absolute left-0 mt-2 grid min-w-64 gap-3 rounded-lg border border-white/10 bg-cream p-4 text-ink opacity-0 shadow-soft transition group-hover:opacity-100">
-                    <AppLink to="performance-marketing" onClick={close} className="hover:text-rust">
-                      {t.nav.performance}
-                    </AppLink>
-                    <AppLink to="social-media" onClick={close} className="hover:text-rust">
-                      {t.nav.social}
-                    </AppLink>
-                  </div>
-                </li>
-              </ul>
+                  <AppLink to="social-media" onClick={close} className="hover:text-rust">
+                    {t.nav.social}
+                  </AppLink>
+                </div>
+              </li>
+            </ul>
           </nav>
 
           <div className={`hidden items-center justify-end gap-5 justify-self-end lg:flex ${controlsColor}`}>
@@ -940,9 +938,8 @@ function Header({ route, t, locale, onLocaleChange }) {
               {item.external ? (
                 <a
                   href={item.href}
-                  className={`grid place-items-center gap-1 rounded-xl px-2 py-2 text-[11px] font-bold uppercase transition ${
-                    item.active ? "bg-olive text-beige" : "text-ink/70 hover:bg-ink/5 hover:text-ink"
-                  }`}
+                  className={`grid place-items-center gap-1 rounded-xl px-2 py-2 text-[11px] font-bold uppercase transition ${item.active ? "bg-olive text-beige" : "text-ink/70 hover:bg-ink/5 hover:text-ink"
+                    }`}
                 >
                   <NavIcon name={item.icon} />
                   <span>{item.label}</span>
@@ -950,9 +947,8 @@ function Header({ route, t, locale, onLocaleChange }) {
               ) : (
                 <AppLink
                   to={item.to}
-                  className={`grid place-items-center gap-1 rounded-xl px-2 py-2 text-[11px] font-bold uppercase transition ${
-                    item.active ? "bg-olive text-beige" : "text-ink/70 hover:bg-ink/5 hover:text-ink"
-                  }`}
+                  className={`grid place-items-center gap-1 rounded-xl px-2 py-2 text-[11px] font-bold uppercase transition ${item.active ? "bg-olive text-beige" : "text-ink/70 hover:bg-ink/5 hover:text-ink"
+                    }`}
                 >
                   <NavIcon name={item.icon} />
                   <span>{item.label}</span>
@@ -1007,9 +1003,9 @@ function HomePage({ t }) {
 }
 
 function Hero({ t }) {
-  return ( 
+  return (
     <section className="relative flex min-h-screen items-center overflow-hidden pt-28 text-center text-white">
-      <img src="/images/hero-bg.png" alt="" className="absolute inset-0 h-full w-full scale-105 object-cover" />
+      <img src="/images/new_images/hero.jpg" alt="" className="absolute inset-0 h-full w-full scale-105 object-cover" />
       <div className="absolute inset-0 bg-olive/30" />
       <div className="container-shell relative z-10 flex justify-center">
         <div className="max-w-5xl p-8 md:p-12">
@@ -1158,7 +1154,7 @@ function CaseStudy({ t }) {
           </div>
           <div className="mx-auto w-full max-w-[400px] overflow-hidden rounded-lg bg-brown shadow-soft lg:mr-0">
             <video autoPlay muted loop controls playsInline className="block h-auto w-full">
-              <source src="/images/proof-of-work/Shapeit.dk-testimonial.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/di0mllnq3/video/upload/v1781153664/AA_-_Mastermind_April_2026_-_Vision_board_niioqn.mp4" type="video/mp4" />
             </video>
           </div>
         </div>
@@ -1228,7 +1224,7 @@ function AboutPreview({ t }) {
     <section className="section-pad bg-warm" id="about">
       <div className="container-shell grid items-center gap-12 lg:grid-cols-2">
         <div className="image-frame">
-          <img src="/images/neriah-portrait.png" alt="Neriah Tellerup Andersen" className="  w-full object-cover" />
+          <img src="/images/new_images/about1.png" alt="Neriah Tellerup Andersen" className="  w-full object-cover" />
         </div>
         <div>
           <span className="section-label">{t.home.aboutLabel}</span>
@@ -1339,7 +1335,7 @@ function Testimonials({ t }) {
 
     const interval = setInterval(() => {
       attempts++;
-      
+
       const host = hiddenRef.current?.querySelector(".commonninja_component");
       const shadow = host?.shadowRoot;
       const items = shadow?.querySelectorAll(".item.is-testimonials");
@@ -1379,17 +1375,17 @@ function Testimonials({ t }) {
   }, []);
 
   const srcs = [
-    "/images/neriah-portrait.png",
-    "/images/neriah.png",
-    "/images/cecilie-portrait.avif",
-    "/images/neriah-outdoor.jpeg",
-    "/images/neriah-desk.png",
-    "/images/process-audit.png"
+    "/images/new_images/testimonial/testimonial1.jpg",
+    "/images/new_images/testimonial/testimonial2.jpg",
+    "/images/new_images/testimonial/testimonial3.jpg",
+    "/images/new_images/testimonial/testimonial4.jpg",
+    "/images/new_images/testimonial/testimonial5.jpg",
+    "/images/new_images/testimonial/testimonial6.jpg"
   ];
 
   // Live reviews take priority. If fallback is triggered, use hardcoded translations.
   const activeReviews = reviews.length > 0 ? reviews : (isFallback ? t.home.carouselTestimonials : []);
-  
+
   const testimonials = activeReviews.map((item, index) => ({
     ...item,
     src: srcs[index % srcs.length]
@@ -1416,33 +1412,33 @@ function Testimonials({ t }) {
       <div className="pointer-events-none absolute bottom-0 right-0 h-[800px] w-[800px] translate-x-1/3 translate-y-1/3 rounded-full bg-rust/5 blur-[120px]" /> */}
 
       <div className="container-shell relative z-10">
-        
+
         {/* Hidden Common Ninja renderer off-screen but alive */}
         <div ref={hiddenRef} style={{ position: "fixed", top: "-9999px", left: "-9999px", width: "500px", pointerEvents: "none", opacity: 0 }}>
           <div className="commonninja_component pid-5cd38a52-7ee6-446e-9776-6237c2d091ef" />
         </div>
 
         {isLoading ? (
-           // Minimal skeleton matching split layout
-           <div className="grid min-h-[600px] animate-pulse grid-cols-1 gap-12 opacity-50 lg:grid-cols-2">
-             <div className="flex flex-col gap-6 pt-12">
-                <div className="h-6 w-32 rounded-full bg-ink/10" />
-                <div className="h-16 w-3/4 rounded-full bg-ink/10" />
-                <div className="h-16 w-1/2 rounded-full bg-ink/10" />
-             </div>
-             <div className="h-full min-h-[500px] w-full rounded-[32px] bg-ink/5" />
-           </div>
+          // Minimal skeleton matching split layout
+          <div className="grid min-h-[600px] animate-pulse grid-cols-1 gap-12 opacity-50 lg:grid-cols-2">
+            <div className="flex flex-col gap-6 pt-12">
+              <div className="h-6 w-32 rounded-full bg-ink/10" />
+              <div className="h-16 w-3/4 rounded-full bg-ink/10" />
+              <div className="h-16 w-1/2 rounded-full bg-ink/10" />
+            </div>
+            <div className="h-full min-h-[500px] w-full rounded-[32px] bg-ink/5" />
+          </div>
         ) : (
           <>
             {/* TOP SPLIT SECTION */}
             <div className="grid items-center gap-12 lg:grid-cols-2 lg:gap-20">
-              
+
               {/* LEFT: Text & Trust */}
               <div className="flex flex-col items-start pr-4">
                 <span className="mb-4 text-sm font-bold uppercase tracking-widest text-rust">
                   {t.home.testimonialsLabel}
                 </span>
-                
+
                 <h2 className="mb-8 font-display text-4xl font-medium tracking-tight text-ink md:text-5xl lg:text-6xl">
                   {t.home.testimonialsTitle}
                 </h2>
@@ -1455,9 +1451,9 @@ function Testimonials({ t }) {
                     </svg>
                     <span className="font-display text-lg font-medium tracking-tight text-ink">Trustpilot</span>
                   </div>
-                  
+
                   <div className="hidden h-8 w-px bg-ink/10 sm:block" />
-                  
+
                   <div className="flex flex-col items-start gap-1">
                     <div className="flex items-center gap-2">
                       <div className="flex gap-1 text-[#FFB400]">
@@ -1469,7 +1465,7 @@ function Testimonials({ t }) {
                       </div>
                       <span className="font-medium text-ink">4.9/5</span>
                     </div>
-                    
+
                     <div className="flex items-center gap-1.5 text-[13px] text-taupe">
                       <svg className="h-4 w-4 text-[#00B67A]" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
@@ -1485,7 +1481,7 @@ function Testimonials({ t }) {
               </div>
 
               {/* RIGHT: Featured Testimonial Card */}
-              <div className="group relative flex min-h-[500px] w-full flex-col justify-end overflow-hidden rounded-[32px] bg-ink/5 p-8 shadow-card md:min-h-[600px] md:p-12">
+              <div className="group relative flex min-h-[500px] w-full flex-col justify-end overflow-hidden rounded-[32px] bg-ink/5 p-8 shadow-card md:min-h-[718px] md:p-12">
                 <AnimatePresence mode="wait">
                   <motion.div
                     key={activeIndex}
@@ -1495,10 +1491,10 @@ function Testimonials({ t }) {
                     transition={{ duration: 0.8, ease: "easeInOut" }}
                     className="absolute inset-0"
                   >
-                    <img 
-                      src={testimonials[activeIndex].src} 
-                      className="h-full w-full object-cover transition-transform duration-[10s] group-hover:scale-110" 
-                      alt="" 
+                    <img
+                      src={testimonials[activeIndex].src}
+                      className="h-full w-full object-cover transition-transform duration-[10s] group-hover:scale-110"
+                      alt=""
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent" />
                   </motion.div>
@@ -1517,7 +1513,7 @@ function Testimonials({ t }) {
                       </svg>
                     </button>
                   </div>
-                  
+
                   <AnimatePresence mode="wait">
                     <motion.div
                       key={activeIndex}
@@ -1556,17 +1552,17 @@ function Testimonials({ t }) {
               {/* Fade out edges */}
               <div className="pointer-events-none absolute bottom-0 left-0 top-0 z-20 w-16 bg-gradient-to-r from-warm to-transparent lg:w-40" />
               <div className="pointer-events-none absolute bottom-0 right-0 top-0 z-20 w-16 bg-gradient-to-l from-warm to-transparent lg:w-40" />
-              
+
               <div className="flex w-max animate-marquee gap-6 [animation-duration:45s] hover:[animation-play-state:paused]">
                 {[0, 1].map((set) => (
                   <div key={set} className="flex gap-6 pr-6">
                     {testimonials.map((review, i) => (
-                      <div 
-                        key={`${set}-${i}`} 
+                      <div
+                        key={`${set}-${i}`}
                         className="group flex w-[320px] shrink-0 flex-col gap-4 rounded-[24px] border border-ink/5 bg-white/40 p-6 shadow-sm backdrop-blur-md transition-all hover:-translate-y-1 hover:bg-white/60 hover:shadow-md"
                       >
                         <div className="flex gap-1 text-[#FFB400]">
-                          {[1,2,3,4,5].map(s => (
+                          {[1, 2, 3, 4, 5].map(s => (
                             <svg key={s} className="h-3.5 w-3.5" fill="currentColor" viewBox="0 0 20 20">
                               <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
                             </svg>
@@ -1575,7 +1571,7 @@ function Testimonials({ t }) {
                         <p className="line-clamp-3 text-sm leading-[1.6] text-ink/80 transition-colors group-hover:text-ink">"{review.quote}"</p>
                         <div className="mt-auto pt-4 border-t border-ink/5 flex items-center gap-3">
                           <div className="h-8 w-8 shrink-0 overflow-hidden rounded-full bg-ink/10">
-                             <img src={review.src} className="h-full w-full object-cover" alt=""/>
+                            <img src={review.src} className="h-full w-full object-cover" alt="" />
                           </div>
                           <span className="text-[13px] font-medium text-ink">{review.name}</span>
                         </div>
@@ -1624,9 +1620,8 @@ function FAQ({ t }) {
                 </span>
               </button>
               <div
-                className={`grid overflow-hidden transition-all duration-500 ease-out ${
-                  active === index ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
-                }`}
+                className={`grid overflow-hidden transition-all duration-500 ease-out ${active === index ? "grid-rows-[1fr] opacity-100" : "grid-rows-[0fr] opacity-0"
+                  }`}
               >
                 <div className="min-h-0">
                   <p className="max-w-3xl pb-6 text-taupe">{answer}</p>
@@ -1750,13 +1745,35 @@ function AboutPage({ t }) {
       </section>
 
       <section className="section-pad bg-beige" id="team">
-        <div className="container-shell grid gap-10 lg:grid-cols-2">
-          <TeamMember image="/images/neriah-portrait.png" name={t.about.members[0][0]} role={t.about.members[0][1]}>
-            {t.about.members[0][2]}
-          </TeamMember>
-          <TeamMember image="/images/cecilie-portrait.avif" name={t.about.members[1][0]} role={t.about.members[1][1]}>
-            {t.about.members[1][2]}
-          </TeamMember>
+        <div className="container-shell">
+
+          {/* Landscape banner photo */}
+          <div className="image-frame mb-10">
+            <img
+              src="/images/new_images/team.jpg"
+              alt="Neriah and Cecilie from Neda Media"
+              className="h-[580px] w-full object-cover"
+            />
+          </div>
+
+          {/* Two portraits side by side */}
+          <div className="grid gap-10 lg:grid-cols-2">
+            <TeamMember
+              image="/images/new_images/service2.jpg"
+            // name={t.about.members[0][0]}
+            // role={t.about.members[0][1]}
+            >
+              {/* {t.about.members[0][2]} */}
+            </TeamMember>
+            <TeamMember
+              image="/images/new_images/service1.jpg"
+            // name={t.about.members[1][0]}
+            // role={t.about.members[1][1]}
+            >
+              {/* {t.about.members[1][2]} */}
+            </TeamMember>
+          </div>
+
         </div>
       </section>
 
@@ -1776,7 +1793,7 @@ function AboutPage({ t }) {
         </div>
       </section>
 
-      <CTA splitImage="/images/neriah-desk.png" title={t.about.ctaTitle} text={t.about.ctaText} t={t} />
+      <CTA splitImage="/images/new_images/about.jpg" title={t.about.ctaTitle} text={t.about.ctaText} t={t} />
     </main>
   );
 }
@@ -1785,7 +1802,7 @@ function TeamMember({ image, name, role, children }) {
   return (
     <article className="grid gap-6">
       <div className="image-frame">
-        <img src={image} alt={`${name} from Neda Media`} className="h-[620px] w-full object-cover" />
+        <img src={image} alt={`${name} from Neda Media`} className=" h-[820px] w-full object-cover" />
       </div>
       <div>
         <h2 className="text-5xl">{name}</h2>
@@ -1845,14 +1862,14 @@ function ServicePage({ data, t }) {
 
         <div className="container-shell relative z-10">
           <div className="grid gap-16 lg:grid-cols-[0.4fr_0.6fr] lg:gap-20 xl:grid-cols-[0.35fr_0.65fr]">
-            
+
             {/* LEFT COLUMN - Sticky Intro */}
             <div className="flex flex-col items-start lg:sticky lg:top-32 lg:h-max">
               <span className="mb-6 inline-flex items-center gap-2 rounded-full border border-rust/10 bg-white/60 px-4 py-1.5 font-accent text-sm tracking-widest text-rust shadow-sm backdrop-blur-md">
                 <span className="h-1.5 w-1.5 rounded-full bg-rust" />
                 {t.labels.whatWeOffer}
               </span>
-              
+
               <h2 className="font-display text-4xl font-medium leading-[1.1] tracking-tight text-ink md:text-5xl lg:text-6xl">
                 {(() => {
                   const words = data.offerTitle.split(" ");
@@ -1867,11 +1884,11 @@ function ServicePage({ data, t }) {
                   );
                 })()}
               </h2>
-              
+
               <p className="mt-6 max-w-md text-lg leading-relaxed text-taupe/90">
                 {data.subtitle}
               </p>
-              
+
               <AppLink to="meeting" className="group mt-10 inline-flex items-center gap-3 rounded-full bg-ink px-7 py-4 text-sm font-medium text-white shadow-lg shadow-ink/10 transition-all duration-300 hover:-translate-y-0.5 hover:bg-olive hover:shadow-xl hover:shadow-olive/20">
                 {t.cta?.meeting || "Book a meeting"}
                 <svg className="h-4 w-4 transition-transform duration-300 group-hover:translate-x-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -1881,7 +1898,7 @@ function ServicePage({ data, t }) {
             </div>
 
             {/* RIGHT COLUMN - Cinematic Interactive Drift */}
-            <div 
+            <div
               className="relative w-full overflow-hidden py-6 -my-6"
               onMouseEnter={() => { isHovered.current = true; }}
               onMouseLeave={() => { isHovered.current = false; }}
@@ -1892,7 +1909,7 @@ function ServicePage({ data, t }) {
               {/* <div className="pointer-events-none absolute bottom-0 left-0 top-0 z-20 w-12 bg-gradient-to-r from-[#F9F8F6] to-transparent lg:w-24" />
               <div className="pointer-events-none absolute bottom-0 right-0 top-0 z-20 w-16 bg-gradient-to-l from-[#F3EEEA]/80 to-transparent lg:w-40" /> */}
 
-              <motion.div 
+              <motion.div
                 style={{ x: baseX, touchAction: "pan-y" }}
                 drag="x"
                 dragMomentum={true}
@@ -1904,24 +1921,24 @@ function ServicePage({ data, t }) {
                 {[0, 1, 2].map((setIndex) => (
                   <div key={setIndex} ref={setIndex === 0 ? contentRef : null} className="flex gap-6 pr-6">
                     {data.pillars.map((pillar) => (
-                      <article 
+                      <article
                         key={`${setIndex}-${pillar.title}`}
                         className="group relative flex w-[85vw] sm:w-[380px] lg:w-[420px] shrink-0 flex-col rounded-[32px] border border-white/60 bg-white/40 p-8 backdrop-blur-2xl transition-all duration-500 hover:-translate-y-2 hover:scale-[1.02] hover:bg-white/80   hover:z-10"
                       >
                         <div className="absolute inset-0 rounded-[32px] bg-gradient-to-br from-white/60 to-transparent opacity-0 transition-opacity duration-500 group-hover:opacity-100" />
-                        
+
                         {/* glowing orb behind icon */}
                         <div className="absolute left-8 top-8 h-16 w-16 rounded-full bg-rust/10 blur-xl transition-all duration-500 group-hover:bg-rust/30 group-hover:blur-2xl group-hover:scale-125" />
-                        
+
                         <div className="relative mb-6">
                           <div className="[&>div]:mb-0 [&>div]:shadow-sm">
                             <PillarLogo title={pillar.title} />
                           </div>
                         </div>
-                        
+
                         <h3 className="relative font-display text-2xl font-medium text-ink transition-colors duration-300">{pillar.title}</h3>
                         <p className="relative mt-3 text-sm leading-[1.6] text-taupe group-hover:text-ink/80 transition-colors duration-300">{pillar.text}</p>
-                        
+
                         {pillar.points && (
                           <ul className="relative mt-8 flex flex-col gap-3 border-t border-ink/5 pt-6">
                             {pillar.points.map((point) => (
@@ -1940,7 +1957,7 @@ function ServicePage({ data, t }) {
                 ))}
               </motion.div>
             </div>
-            
+
           </div>
         </div>
       </section>
@@ -1968,7 +1985,7 @@ function PillarLogo({ title }) {
     </div>
   );
 
- if (lower.includes("meta") || lower.includes("social ads")) {
+  if (lower.includes("meta") || lower.includes("social ads")) {
     return (
       <div className="mb-8 grid h-14 w-14 place-items-center rounded-full bg-[#0668e1]/10 text-[#0668e1]" aria-hidden="true">
         <svg viewBox="0 0 64 64" className="h-8 w-8" fill="none">
@@ -2105,7 +2122,7 @@ function PerformanceSpotlight({ t }) {
       <div className="container-shell grid items-center gap-12 lg:grid-cols-2">
         <div className="mx-auto w-full max-w-[400px] overflow-hidden rounded-lg bg-brown shadow-soft lg:mx-0">
           <video autoPlay muted loop controls playsInline className="block h-auto w-full">
-            <source src="/images/proof-of-work/Shapeit.dk-testimonial.mp4" type="video/mp4" />
+            <source src="images/hero-video.mp4" type="video/mp4" />
           </video>
         </div>
         <div>
@@ -2140,12 +2157,12 @@ function SocialShowcase({ t }) {
     },
     {
       type: "image",
-      src: "/images/cecilie-portrait.avif", // Replace with your actual vertical MP4
+      src: "/images/new_images/social-gallary2.jpg", // Replace with your actual vertical MP4
       span: "",
     },
-        {
+    {
       type: "video",
-      src: "/images/hero-video.mp4", // Replace with your actual landscape MP4
+      src: "https://res.cloudinary.com/di0mllnq3/video/upload/v1781157125/IMG_2109_x518oa.mp4", // Replace with your actual landscape MP4
       span: "row-span-2",
     },
     {
@@ -2153,13 +2170,13 @@ function SocialShowcase({ t }) {
       src: "/images/neriah-outdoor.jpeg",
       span: "",
     },
-       {
+    {
       type: "image",
-      src: "/images/process-creative.png",
+      src: "/images/new_images/social-gallary.jpg",
       span: "",
     },
 
- 
+
   ];
 
   return (
@@ -2167,14 +2184,14 @@ function SocialShowcase({ t }) {
       {/* Premium Ambient Background Effects */}
       <div className="pointer-events-none absolute left-[10%] top-0 h-[500px] w-[500px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-rust/5 blur-[120px]" />
       <div className="pointer-events-none absolute bottom-0 right-[10%] h-[600px] w-[600px] translate-x-1/3 translate-y-1/3 rounded-full bg-olive/5 blur-[120px]" />
-      
+
       <div className="container-shell relative z-10">
         <SectionHeader label={t.labels.portfolio} title={t.labels.engagingContent} center />
-        
+
         <div className="grid auto-rows-[260px] gap-5 md:grid-cols-4">
           {showcaseItems.map((item, index) => (
-            <div 
-              key={`${item.src}-${index}`} 
+            <div
+              key={`${item.src}-${index}`}
               className={`group relative overflow-hidden rounded-[28px] bg-ink/5 shadow-[0_4px_20px_rgb(0,0,0,0.03)] transition-all duration-700 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgb(0,0,0,0.12)] ${item.span}`}
             >
               {item.type === "video" ? (
@@ -2187,13 +2204,13 @@ function SocialShowcase({ t }) {
                   className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
               ) : (
-                <img 
-                  src={item.src} 
-                  alt={t.labels.socialShowcaseImageAlt || "Portfolio Showcase"} 
-                  className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105" 
+                <img
+                  src={item.src}
+                  alt={t.labels.socialShowcaseImageAlt || "Portfolio Showcase"}
+                  className="h-full w-full object-cover transition-transform duration-700 group-hover:scale-105"
                 />
               )}
-              
+
               {/* Soft Cinematic Gradient Overlay on hover */}
               <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/30 via-transparent to-transparent opacity-0 transition-opacity duration-700 group-hover:opacity-100" />
             </div>
@@ -2286,7 +2303,7 @@ function CTA({ title, text, splitImage, t }) {
         </div>
         {splitImage && (
           <div className="image-frame">
-            <img src={splitImage} alt={t.labels.ctaTeamImageAlt} className="h-[420px] w-full object-cover" />
+            <img src={splitImage} alt={t.labels.ctaTeamImageAlt} className="h-[620px] w-full object-cover" />
           </div>
         )}
       </div>
